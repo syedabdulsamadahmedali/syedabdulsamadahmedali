@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam Nor!
+# 👋 Hi, I'm Syed Abdul Samad Ahmed Ali!
 
 🎓 Master's in Computer Science @ University of New Brunswick  
 🔐 Post-Grad in Cybersecurity @ Durham College  
