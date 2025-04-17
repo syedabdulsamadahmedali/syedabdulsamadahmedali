@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Software Engineer | Cloud Enthusiast | Data Explorer</h3>
+
+<p align="center">
+  <em>
+    M.Sc. Computer Science @ UNB | Ex-Microsoft via MAQ | Building cool stuff with data, code & cloud ☁️
+  </em>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
