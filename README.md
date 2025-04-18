@@ -2,14 +2,14 @@
 
 ### Software Engineer | Cloud Enthusiast | Data Explorer
 
-Welcome to my GitHub! I'm a Software Engineer with an M.Sc. in Computer Science from UNB and experience at MAQ. I love building innovative solutions with **data**, **code**, and **cloud technologies** ☁️. Explore my projects, and let's connect to create something awesome!
+Welcome to my GitHub! I'm a Software Engineer with an M.Sc. in Computer Science from UNB and experience at MAQ Software. I love building innovative solutions with **data**, **code**, and **cloud technologies** ☁️. Explore my projects, and let's connect to create something awesome!
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **M.Sc. Computer Science** from University of New Brunswick
-- 💼 Former Software Engineer at MAQ
+- 💼 Former Software Engineer at MAQ Software
 - 🔍 Passionate about **cloud architecture**, **data engineering**, and **full-stack development**
 - 🌟 Always learning and experimenting with new tools and technologies
 
