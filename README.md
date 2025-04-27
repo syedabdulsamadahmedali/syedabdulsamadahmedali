@@ -34,6 +34,6 @@ Welcome to my GitHub! I'm a Software Engineer with an M.Sc. in Computer Science 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"You don't need a cape to change the world. Sometimes a keyboard is enough</i>
 </p>
 
